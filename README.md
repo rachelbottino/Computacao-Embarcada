@@ -10,11 +10,12 @@ O Repositório está estruturado da seguinte maneira :
 
 - Códigos : Códigos utilizados como exemplo para o desenvolvimento das atividades;
 - Leituras complementares : Materiais extra que acho interessante e compartilho com vocês;
-- Pesquisa e Problemas : As atividades que devem ser realizadas durante as aulas e devem ser entregues;
-- Slides : Os slides utilizados em sala de aula, eles estão separados por conteúdo e não por aula, cada conteúdo é numerado como : 01, 02, 03. e.x: A primeira aula foi composta pelos conteúdos 1,2,3,4 ... ;
+- Estudo dirigido e Projetos : As atividades que devem ser realizadas durante as aulas e devem ser entregues;
+- Material Aulas : Os slides utilizados em sala de aula, eles estão separados por conteúdo e não por aula, cada conteúdo é numerado como : 01, 02, 03. e.x: A primeira aula foi composta pelos conteúdos 1,2,3,4 ... ;
 - Softwares Extras : Softwares a serem utilizados ao longo do curso ;
 
 # Resumo do curso
+![selecao_005](https://cloud.githubusercontent.com/assets/1039615/22657938/5fcb0cf6-ec7f-11e6-9f44-baccefb723ce.png)
 
 ## Objetivo
 
@@ -43,7 +44,7 @@ Capacitar o aluno para projetar e desenvolver sistemas computacionais embarcados
 
 4.  Compreender as limitações de microcontroladores e seus periféricos;
 
-5.  Ser capaz de buscar e analisar documentação (datasheet) e extrair informações relevantes.
+5.  Buscar e analisar documentação (datasheet) e extrair informações relevantes.
 
 ## Licença
 Material liberado sob licença:
