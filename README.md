@@ -28,7 +28,7 @@ Capacitar o aluno para projetar e desenvolver sistemas computacionais embarcados
 
 5.  Buscar e analisar documentação (datasheet) e extrair informações relevantes.
 
-# Resumo do curso
+# Outline
 ![selecao_005](https://cloud.githubusercontent.com/assets/1039615/22657938/5fcb0cf6-ec7f-11e6-9f44-baccefb723ce.png)
 
 ## Objetivo
